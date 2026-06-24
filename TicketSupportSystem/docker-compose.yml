@@ -1,0 +1,21 @@
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: sqlserver
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: "@someThingComplicated1234"
+    ports:
+      - "1433:1433"
+
+  app:
+    build:
+      context: .
+      dockerfile: dockerfile
+    container_name: ticketsupportsystem-app
+    depends_on:
+      - sqlserver
+    ports:
+      - "8080:80"
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
