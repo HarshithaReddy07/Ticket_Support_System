@@ -4177,11 +4177,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/harshithareddy/Desktop/TicketSupportSystem/TicketSupportSystem/TicketSupportSystem.csproj",
+      "projectUniqueName": "/Users/harshithareddy/Desktop/Ticket_Support_System/TicketSupportSystem/TicketSupportSystem.csproj",
       "projectName": "TicketSupportSystem",
-      "projectPath": "/Users/harshithareddy/Desktop/TicketSupportSystem/TicketSupportSystem/TicketSupportSystem.csproj",
+      "projectPath": "/Users/harshithareddy/Desktop/Ticket_Support_System/TicketSupportSystem/TicketSupportSystem.csproj",
       "packagesPath": "/Users/harshithareddy/.nuget/packages/",
-      "outputPath": "/Users/harshithareddy/Desktop/TicketSupportSystem/TicketSupportSystem/obj/",
+      "outputPath": "/Users/harshithareddy/Desktop/Ticket_Support_System/TicketSupportSystem/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/harshithareddy/.nuget/NuGet/NuGet.Config"

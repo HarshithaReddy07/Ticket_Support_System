@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a0JqFWdJeMs=",
+  "dgSpecHash": "1RqTJOqRUdI=",
   "success": true,
-  "projectFilePath": "/Users/harshithareddy/Desktop/TicketSupportSystem/TicketSupportSystem/TicketSupportSystem.csproj",
+  "projectFilePath": "/Users/harshithareddy/Desktop/Ticket_Support_System/TicketSupportSystem/TicketSupportSystem.csproj",
   "expectedPackageFiles": [
     "/Users/harshithareddy/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/harshithareddy/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
@@ -97,9 +97,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'AutoMapper' 12.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-rvv3-g6hj-g44x",
-      "projectPath": "/Users/harshithareddy/Desktop/TicketSupportSystem/TicketSupportSystem/TicketSupportSystem.csproj",
+      "projectPath": "/Users/harshithareddy/Desktop/Ticket_Support_System/TicketSupportSystem/TicketSupportSystem.csproj",
       "warningLevel": 1,
-      "filePath": "/Users/harshithareddy/Desktop/TicketSupportSystem/TicketSupportSystem/TicketSupportSystem.csproj",
+      "filePath": "/Users/harshithareddy/Desktop/Ticket_Support_System/TicketSupportSystem/TicketSupportSystem.csproj",
       "libraryId": "AutoMapper",
       "targetGraphs": [
         "net6.0"
@@ -109,9 +109,9 @@
       "code": "NU1701",
       "level": "Warning",
       "message": "Package 'Microsoft.AspNet.Identity.Core 2.2.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
-      "projectPath": "/Users/harshithareddy/Desktop/TicketSupportSystem/TicketSupportSystem/TicketSupportSystem.csproj",
+      "projectPath": "/Users/harshithareddy/Desktop/Ticket_Support_System/TicketSupportSystem/TicketSupportSystem.csproj",
       "warningLevel": 1,
-      "filePath": "/Users/harshithareddy/Desktop/TicketSupportSystem/TicketSupportSystem/TicketSupportSystem.csproj",
+      "filePath": "/Users/harshithareddy/Desktop/Ticket_Support_System/TicketSupportSystem/TicketSupportSystem.csproj",
       "libraryId": "Microsoft.AspNet.Identity.Core",
       "targetGraphs": [
         "net6.0"
